@@ -1,6 +1,8 @@
 Usage
 =============
 
++ 首先需要使用split_file.py进行切换VOC的Annotations和图片
+
 A python script for converting PASCAL VOC xml file format to MSCOCO json file format in **Object Detection**.
 
 ```
