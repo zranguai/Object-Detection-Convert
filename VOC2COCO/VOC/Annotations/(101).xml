@@ -1,0 +1,45 @@
+<annotation>
+	<folder>simple</folder>
+	<filename>(51).txt</filename>
+	<size>
+		<width>600 </width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>yanwu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>226</ymin>
+			<xmax>490</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yanwu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>106</ymin>
+			<xmax>396</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yanwu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>0</ymin>
+			<xmax>370</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

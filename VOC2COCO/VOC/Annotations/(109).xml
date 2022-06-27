@@ -1,0 +1,33 @@
+<annotation>
+	<folder>simple</folder>
+	<filename>(60).txt</filename>
+	<size>
+		<width>682 </width>
+		<height>1023</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>yanwu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>0</ymin>
+			<xmax>645</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yanwu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>424</ymin>
+			<xmax>376</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+</annotation>

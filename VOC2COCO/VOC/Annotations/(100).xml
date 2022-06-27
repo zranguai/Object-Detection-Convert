@@ -1,0 +1,21 @@
+<annotation>
+	<folder>simple</folder>
+	<filename>(15).txt</filename>
+	<size>
+		<width>500 </width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>yanwu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>0</ymin>
+			<xmax>304</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>
