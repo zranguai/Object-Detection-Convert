@@ -35,6 +35,8 @@ python gengrate_traintxt_valtxt.py --image_path /path/to/you/img --txt_path /pat
 ```
 + ref
 
+[转换数据集格式1](https://blog.csdn.net/qq_38109843/article/details/90783347)
+
 [参考1-转换合集](https://blog.csdn.net/qq_38109843/article/details/90783347?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_utm_term-0&spm=1001.2101.3001.4242)
 
 [参考2-yolo2coco](https://github.com/RapidAI/YOLO2COCO)
